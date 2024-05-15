@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias Destacadas</title>
+    <link>http://tusitio.com/rss/noticias.xml</link>
+    <description>Últimas noticias sobre nuestra marca</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Nuevo Producto Lanzado</title>
+      <description>Hemos lanzado un nuevo producto innovador</description>
+      <link>http://tusitio.com/noticias/nuevo-producto</link>
+      <pubDate>Mon, 13 May 2024 09:00:00 GMT</pubDate>
+      <category>Productos</category>
+      <category>Novedades</category>
+      <enclosure url="http://tusitio.com/images/new_product.jpg" length="12345" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Expansión Internacional</title>
+      <description>Abrimos nuevas tiendas en Europa</description>
+      <link>http://tusitio.com/noticias/expansion</link>
+      <pubDate>Tue, 14 May 2024 10:00:00 GMT</pubDate>
+      <category>Negocios</category>
+      <category>Expansión</category>
+      <enclosure url="http://tusitio.com/images/concepto-franquicia-gente-pone-tienda-mapa-enorme-empresarios-inician-empresa-franquicia-o-compran-sede-corporativa-expansion-sucursal-franquicia-tienda-minorista-o-red-servicios_458444-1550.avif" length="12345" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Premio a la Innovación</title>
+      <description>Recibimos un premio por nuestra innovación en el sector</description>
+      <link>http://tusitio.com/noticias/premio</link>
+      <pubDate>Wed, 15 May 2024 11:00:00 GMT</pubDate>
+      <category>Premios</category>
+      <category>Reconocimientos</category>
+      <enclosure url="http://tusitio.com/images/Poster-premios-24-pdf-1.jpg" length="12345" type="image/jpeg" />
+    </item>
+
+  </channel>
+</rss>
