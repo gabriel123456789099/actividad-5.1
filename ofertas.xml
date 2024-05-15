@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Ofertas de la Semana</title>
+    <link>http://tusitio.com/rss/ofertas.xml</link>
+    <description>Las mejores ofertas de la semana</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Descuento en Televisores</title>
+      <description>50% de descuento en televisores 4K</description>
+      <link>http://tusitio.com/ofertas/televisores</link>
+      <pubDate>Mon, 13 May 2024 09:00:00 GMT</pubDate>
+      <category>Electrónica</category>
+      <category>Ofertas</category>
+      <enclosure url="http://tusitio.com/images/91zH-bONsQL.jpg" length="12345" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>2x1 en Zapatos Deportivos</title>
+      <description>Compra un par y lleva otro gratis</description>
+      <link>http://tusitio.com/ofertas/zapatos</link>
+      <pubDate>Tue, 14 May 2024 10:00:00 GMT</pubDate>
+      <category>Moda</category>
+      <category>Ofertas</category>
+      <enclosure url="http://tusitio.com/images/Sin_título.jpg" length="12345" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Descuento en Muebles</title>
+      <description>30% de descuento en toda la sección de muebles</description>
+      <link>http://tusitio.com/ofertas/muebles</link>
+      <pubDate>Wed, 15 May 2024 11:00:00 GMT</pubDate>
+      <category>Hogar</category>
+      <category>Ofertas</category>
+      <enclosure url="http://tusitio.com/images/dormitorio-volga-de-seys-color-blanco-decape.webp" length="12345" type="image/jpeg" />
+    </item>
+
+  </channel>
+</rss>
